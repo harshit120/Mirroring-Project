@@ -1,4 +1,4 @@
-# MirroringProjectt branch 2
+# MirroringProjectt brranch 2
 
 ## Getting started
 
