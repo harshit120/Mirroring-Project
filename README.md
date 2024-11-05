@@ -1,6 +1,5 @@
 # Mirroring Project
-done done
-d
+done 
 
 ## Getting started
 
