@@ -1,4 +1,4 @@
-# MirroringProjectn
+# MirroringProject
 
 ## Getting started
 
