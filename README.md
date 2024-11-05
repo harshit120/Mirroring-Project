@@ -1,5 +1,4 @@
 # Mirroring Project
-don
 
 ## Getting started
 
